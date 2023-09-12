@@ -7,7 +7,6 @@
 }
 .head{
   display:flex;
-  justify-content:sapce-between;
   text-align:center;
 }
 body{
